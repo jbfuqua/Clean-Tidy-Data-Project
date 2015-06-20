@@ -13,6 +13,7 @@ summarizes each measurement from the merged set by Subject and Activity.
 Source data - UCI Human Activity Recognition Database
 
 project URL: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
+
 data URL: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
 # Script
@@ -23,7 +24,7 @@ The output is a file titled 'tidy_data.txt'
 
 # Other Information
 
-In the 'UCI HAR Dataset' directory:
+In the 'UCI HAR Dataset' directory (within the .zip file):
 
 README.txt: Describes the contents of the directory and subdirectories
 
